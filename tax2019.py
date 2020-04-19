@@ -41,3 +41,5 @@ ex4=paytax(2400000)
 ex5=paytax(3400000)
 ex6=paytax(4600000)
    
+
+# https://www.ntbt.gov.tw/multiplehtml/a8e51afaada744e3ba86c37e6fc4a19c
